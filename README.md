@@ -1,5 +1,5 @@
 # Web-Chat application
 
-## Exmaple
-![](WebChatExample.mp4)
+## Example
+![ex:](WebChatExample.mp4)
 
